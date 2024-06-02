@@ -10019,3 +10019,9 @@ h6,
   list-style-type: none;
 }
 
+@media (max-width: 768px) {
+    .img-fluid-1 {
+        max-width: 55%;
+        height: auto;
+    }
+}
