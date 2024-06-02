@@ -9809,7 +9809,7 @@ h6,
 .link-whatsapp{
 
   right: 30px;
-  bottom: 12rem;
+  bottom: 7rem;
   z-index: 99;
   position: fixed;
   z-index: 99;
@@ -9819,7 +9819,7 @@ h6,
 .link-call{
 
   right: 30px;
-  bottom: 7rem;
+  bottom: 2rem;
   z-index: 99;
   position: fixed;
   z-index: 99;
@@ -10019,8 +10019,9 @@ h6,
   list-style-type: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 980px) {
     .img-fluid-1 {
+        margin-right: 6rem;
         max-width: 55%;
         height: auto;
     }
